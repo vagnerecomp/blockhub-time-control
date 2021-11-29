@@ -34,6 +34,7 @@ export default {
         background-color: rgba(0,0,0,0.5);
         padding: 50px 15px;
         border-radius: 10px;
+        position: relative;
     }
     .login-container{
         display: flex;

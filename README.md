@@ -1,18 +1,18 @@
 # blockhub-time-manager
 
-## Project setup
+### 1-Instalar dependências:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 2-Executar projeto em servidor local:
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 3-Abrir aplicação no navegador
 ```
-npm run build
+Acesso http://localhost:8080
 ```
 
 ### Customize configuration

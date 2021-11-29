@@ -16,6 +16,8 @@ export default {
         color: #303134;
         border: none;
         border-radius: 18px;
+        position: absolute;
+        right: 35px;    
     }
     input:hover{
         border: 3px solid #c9d1d9;

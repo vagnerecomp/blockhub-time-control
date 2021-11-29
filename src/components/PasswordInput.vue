@@ -21,7 +21,7 @@ export default {
         .txt-group{
     position: relative;
     display:inline-block;
-    margin-bottom: 15px;
+    margin-bottom: 1px;
     }
     .txt-group input{
         width: 452px;
