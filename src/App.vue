@@ -1,9 +1,10 @@
 <template>
   <div>
       <div class="login-main-container">
-        <Register/>
       </div>
-    <Login/>
+        <Login/>
+        <br>
+        <Register/>
   </div>
 </template>
 <script>
